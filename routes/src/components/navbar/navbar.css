@@ -1,0 +1,32 @@
+nav.main{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    color: white;
+}
+
+div{
+    font-weight: 700;
+    height: 25px;
+    background-color: black;
+    color: white;
+    
+}
+
+a{
+    background-color: black;
+    color: white;     
+    cursor: pointer;  
+}
+ 
+.left{
+    cursor: pointer;
+}
+
+.right{
+    display: flex;
+    justify-content: space-between;
+    width: 150px;
+    margin-left: 85%;
+    margin-top: -20px;
+}
